@@ -1,2 +1,5 @@
-# a_one_level_game
-A game I made while bored in class last year
+# A one level game
+A game I made while bored in class last year.
+
+## Same level different controls
+Complete the same level 8 times to win the game. Each time you will need to figure out the controls for the level.
